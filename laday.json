@@ -1,26 +1,29 @@
 [
  {
-     "title":"زهرة الجبل",
-    "provider":"youtube",
-    "image":"https://raw.githubusercontent.com/abr120/zhrataljabal/master/145.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCjNLZBOGiu6I960q7C7Gy8"
+     "title":"عهد الأصدقاء",
+    "provider":"wordpress",
+    "image":"https://raw.githubusercontent.com/abr120/ahdalasdqa/master/6.jpg",
+     "arguments":[ 
+ 	 "yoodkkaa.wordpress.com",
+      "ahdalasdqa"
     ]
   },
   {
-    "title":"مدرسة البنات",
-    "provider":"youtube",
-    "image":"https://raw.githubusercontent.com/abr120/zhrataljabal/master/156.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCtyZKsaa9DoCmKoxkgSYsZ"
+     "title":"عدنان ولينا",
+    "provider":"wordpress",
+    "image":"https://raw.githubusercontent.com/abr120/ahdalasdqa/master/21.jpg",
+     "arguments":[ 
+ 	 "yoodkkaa.wordpress.com",
+      "adnanwlena"
     ]
   },
       {
-  "title":"مغامرات نور",
-    "provider":"youtube",
-    "image":"https://raw.githubusercontent.com/abr120/zhrataljabal/master/161.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxD5O6z38-xWcVWy2ncZDD0D"
+"title":"مغامرات سندباد",
+    "provider":"wordpress",
+    "image":"https://raw.githubusercontent.com/abr120/ahdalasdqa/master/14.jpg",
+     "arguments":[ 
+ 	 "yoodkkaa.wordpress.com",
+      "sinidebaad"
     ]
   }
 ]
