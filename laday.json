@@ -1,0 +1,26 @@
+[
+ {
+     "title":"زهرة الجبل",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/zhrataljabal/master/145.jpg",
+    "arguments":[
+      "PL1ZJrJNFKyxCjNLZBOGiu6I960q7C7Gy8"
+    ]
+  },
+  {
+    "title":"مدرسة البنات",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/zhrataljabal/master/156.jpg",
+    "arguments":[
+      "PL1ZJrJNFKyxCtyZKsaa9DoCmKoxkgSYsZ"
+    ]
+  },
+      {
+  "title":"مغامرات نور",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/zhrataljabal/master/161.jpg",
+    "arguments":[
+      "PL1ZJrJNFKyxD5O6z38-xWcVWy2ncZDD0D"
+    ]
+  }
+]
